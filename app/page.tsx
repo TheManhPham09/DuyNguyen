@@ -5,7 +5,7 @@ export default function Page() {
   const headersList = headers()
   const host = headersList.get("host") || "localhost" // Lấy tên miền hiện tại
 
-  let userName = "V24101610(Đỗ Hồng Quân)" // Tên mặc định
+  let userName = "V24090031(Nguyễn Đức Duy)" // Tên mặc định
 
   // Logic để xác định tên người dùng dựa trên tên miền
   // Bạn có thể mở rộng phần này với nhiều tên miền và tên khác nhau
