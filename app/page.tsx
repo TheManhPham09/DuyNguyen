@@ -20,7 +20,7 @@ export default function Page() {
       break
     // Thêm các trường hợp khác nếu cần
     default:
-      userName = "V24101610(Đỗ Hồng Quân)" // Mặc định cho localhost hoặc các tên miền không xác định
+      userName = "V24090031(Nguyễn Đức Duy)" // Mặc định cho localhost hoặc các tên miền không xác định
       break
   }
 
